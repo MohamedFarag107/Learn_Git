@@ -1,0 +1,11 @@
+h1 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  color: green;
+}
+.red {
+  color: red;
+}
